@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nikola new_post -f markdown $@

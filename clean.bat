@@ -1,0 +1,1 @@
+nikola check --clean-files
