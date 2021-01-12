@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://goriy.github.io/</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/2021/</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/archive.html</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/categories/</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/galleries/</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/listings/</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/listings/.placeholder.html</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://goriy.github.io/posts/python-http/</loc>
+  <lastmod>2021-01-12T11:23:00Z</lastmod>
+ </url>
+</urlset>

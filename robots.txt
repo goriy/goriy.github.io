@@ -1,0 +1,4 @@
+Sitemap: https://goriy.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: goriy.github.io
