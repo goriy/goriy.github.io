@@ -2,7 +2,7 @@
 .. title: Запуск http-сервера на python
 .. slug: python-http
 .. date: 2021-01-08 15:47:23 UTC+03:00
-.. tags: 
+.. tags: python, webserver, http
 .. category: 
 .. link: 
 .. description: 
